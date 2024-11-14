@@ -8,6 +8,7 @@
 - 🖥️ Frontend: **NextJS**, **ReactJS**, **Tailwind CSS**, **TypeScript**
 - 🛠️ Backend: **NodeJS(NestJS)**
 - 🗄️ Databases: **PostgreSQL**, **MySQL**
+- ![PostgreSQL](https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png) **PostgreSQL**
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TriPham9001&show_icons=true&theme=radical)
