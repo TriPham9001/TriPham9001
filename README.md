@@ -10,7 +10,7 @@
 - 🗄️ Databases: **PostgreSQL**, **MySQL**
 
 ## 📈 GitHub Stats
-![GitHub Activity Graph](https://https://www.indiemunkey.com/graph?username=TriPham9001&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.herokuapp.com/graph?username=TriPham9001&theme=github)
 
 ## 🌱 Current Projects
 - 📘 Building a personal blog with **Next.js**
