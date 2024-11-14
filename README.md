@@ -16,6 +16,7 @@
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/tri-pham-85a26b239)
 - 🐦 [X](https://x.com/TristanPham1101)
+- 📞 [Skype](https://join.skype.com/invite/sZeJU9oDXXFE)
 - 📧 [Email](mailto:tri.pham1101@gmail.com)
 
 Thanks for stopping by! 😊
