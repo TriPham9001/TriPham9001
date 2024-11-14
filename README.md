@@ -9,6 +9,9 @@
 - 🛠️ Backend: **NodeJS(NestJS)**
 - 🗄️ Databases: **PostgreSQL**, **MySQL**
 
+## 📈 GitHub Stats
+![GitHub Activity Graph](https://[activity-graph.herokuapp.com](https://www.indiemunkey.com/)/graph?username=TriPham9001&theme=github)
+
 ## 🌱 Current Projects
 - 📘 Building a personal blog with **Next.js**
 - 🎉 Developing a community project with **NestJS**
