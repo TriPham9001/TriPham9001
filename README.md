@@ -5,8 +5,8 @@
 ✨ Always learning new technologies and aiming to deliver high-quality, impactful solutions.
 
 ## 🔧 Skills
-- 🖥️ Frontend: **Next.js**, **React**, **Tailwind CSS**, **TypeScript**
-- 🛠️ Backend: **Node.js(NestJs)**
+- 🖥️ Frontend: **NextJS**, **ReactJS**, **Tailwind CSS**, **TypeScript**
+- 🛠️ Backend: **NodeJS(NestJS)**
 - 🗄️ Databases: **PostgreSQL**, **MySQL**
 
 ## 🌱 Current Projects
