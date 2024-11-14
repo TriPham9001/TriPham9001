@@ -10,6 +10,9 @@
 - 🗄️ Databases: **PostgreSQL**, **MySQL**
 
 ## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TriPham9001&show_icons=true&theme=radical)
+
+## GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.herokuapp.com/graph?username=TriPham9001&theme=github)
 
 ## 🌱 Current Projects
