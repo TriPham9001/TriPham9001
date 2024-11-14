@@ -12,12 +12,6 @@
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TriPham9001&show_icons=true&theme=radical)
 
-## 📊 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=TriPham9001&theme=radical)
-
-## GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TriPham9001&theme=github)
-
 ## 🌱 Current Projects
 - 📘 Building a personal blog with **Next.js**
 - 🎉 Developing a community project with **NestJS**
