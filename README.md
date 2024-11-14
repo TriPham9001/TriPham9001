@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🔥 I'm a Software Engineer with 2 years of experience in full-stack development, specializing in **Next.js** and **NestJS**. I focus on building responsive, user-friendly applications.
+✨ Always learning new technologies and aiming to deliver high-quality, impactful solutions.
 
 ## 🔧 Skills
 - 🖥️ Frontend: **Next.js**, **React**, **Tailwind CSS**, **TypeScript**
