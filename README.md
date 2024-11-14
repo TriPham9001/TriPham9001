@@ -12,9 +12,6 @@
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TriPham9001&show_icons=true&theme=radical)
 
-## 📊 GitHub Contributions Graph
-![GitHub Contributions Graph](https://github.com/TriPham9001/TriPham9001/blob/main/docs/github-contributions-graph.svg)
-
 ## 🌱 Current Projects
 - 📘 Building a personal blog with **Next.js**
 - 🎉 Developing a community project with **NestJS**
