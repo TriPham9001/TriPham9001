@@ -39,6 +39,8 @@
 
 [![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TriPham9001&theme=github)](https://github.com/TriPham9001)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriPham9001&layout=compact&theme=radical)
+
 ## 🌱 Current Projects
 - 📘 Building a personal blog with **Next.js**
 - 🎉 Developing a community project with **NestJS**
