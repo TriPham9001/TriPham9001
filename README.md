@@ -30,7 +30,6 @@
 ### 📂 Version Control
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
 
 ## 📈 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriPham9001&layout=compact&theme=radical)
