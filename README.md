@@ -15,7 +15,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TriPham9001&theme=radical)
 
 ## 📈 GitHub Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TriPham9001&theme=github)](https://github.com/TriPham9001)
+[![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TriPham9001&theme=github)](https://github.com/TriPham9001)
 
 ## 🌱 Current Projects
 - 📘 Building a personal blog with **Next.js**
