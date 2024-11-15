@@ -33,13 +33,13 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
 
 ## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriPham9001&layout=compact&theme=radical)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TriPham9001&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TriPham9001&theme=radical)
 
 [![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TriPham9001&theme=github)](https://github.com/TriPham9001)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriPham9001&layout=compact&theme=radical)
 
 ## 🌱 Current Projects
 - 📘 Building a personal blog with **Next.js**
