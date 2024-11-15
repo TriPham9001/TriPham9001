@@ -13,7 +13,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TriPham9001&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TriPham9001&theme=radical)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TriPham9001&show_icons=true&theme=radical)
 
 ## 🌱 Current Projects
 - 📘 Building a personal blog with **Next.js**
